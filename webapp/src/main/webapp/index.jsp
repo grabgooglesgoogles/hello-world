@@ -1,3 +1,5 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1> Jack DevOps Project Test   </h1>
+<h2> Deploying on Kubernetes using Ansible </h2>
+<p> This is a little bit of text to bulk out my undoubtedly bare page. </p>
+<p>If you're bored then go check out my website - <a href='https://buscoajack.com'>Busco a Jack</a> for even more kicks.</p>
+<p>Safe.</p>
